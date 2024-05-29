@@ -1,1 +1,3 @@
 # PRODIGY_DS_04
+
+The primary goal of the provided code is to enhance the understanding and management of customer feedback on social media platforms,here Twitter. By analyzing the sentiment of tweets, businesses and organizations can identify and address negative sentiments, thereby improving customer satisfaction and brand reputation. This process involves several steps, including loading and preprocessing the data, conducting exploratory data analysis to uncover key patterns, and visualizing the results to gain actionable insights. Ultimately, the aim is to use this information to create strategies that can eradicate negative sentiments and promote positive engagement with customers.
